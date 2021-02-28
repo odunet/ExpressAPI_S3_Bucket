@@ -1,0 +1,16 @@
+{
+    "Buckets": [
+        {
+            "Name": "odunet-teststorage-2021",
+            "CreationDate": "2021-02-27T11:47:22+00:00"
+        },
+        {
+            "Name": "odunetgeneral",
+            "CreationDate": "2020-10-21T18:16:37+00:00"
+        }
+    ],
+    "Owner": {
+        "DisplayName": "odunet2000",
+        "ID": "8d6751cc08ff74329c094aea359670cf714a0f23cc87ee5bd8b2eca14bc1cdc5"
+    }
+}
